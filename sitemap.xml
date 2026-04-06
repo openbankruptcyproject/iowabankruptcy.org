@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://iowabankruptcy.org/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://iowabankruptcy.org/chapter-7.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://iowabankruptcy.org/chapter-13.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://iowabankruptcy.org/exemptions.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://iowabankruptcy.org/cost.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://iowabankruptcy.org/faq.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://iowabankruptcy.org/statistics.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://iowabankruptcy.org/resources.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://iowabankruptcy.org/</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/chapter-7.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/chapter-13.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/cost.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/exemptions.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/faq.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/resources.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/statistics.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/chapter-7.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/chapter-13.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/exemptions.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/cost.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/faq.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/means-test.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/keep-your-car.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/keep-your-house.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/341-meeting.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/suburbs/west-des-moines.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/suburbs/ankeny.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/suburbs/ames.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/suburbs/urbandale.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/suburbs/johnston.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/des-moines/suburbs/waukee.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/cedar-rapids/</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/cedar-rapids/chapter-7.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/cedar-rapids/chapter-13.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/cedar-rapids/exemptions.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://iowabankruptcy.org/cedar-rapids/faq.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
