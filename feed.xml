@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iowabankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://iowabankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://iowabankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://iowabankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>Iowa Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://iowabankruptcy.org/" rel="alternate"/>
+    <id>https://iowabankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free Iowa bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Iowa exemptions, filing costs, means test, and what to expect in your case.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The 341 Meeting of Creditors in Iowa</title>
+    <link href="https://iowabankruptcy.org/341-meeting.html" rel="alternate"/>
+    <id>https://iowabankruptcy.org/341-meeting.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What to expect at the 341 meeting of creditors in Iowa bankruptcy. How to prepare, common questions, what to bring, and tips for success.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The Automatic Stay in Iowa Bankruptcy</title>
+    <link href="https://iowabankruptcy.org/automatic-stay.html" rel="alternate"/>
+    <id>https://iowabankruptcy.org/automatic-stay.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn how the automatic stay protects Iowa residents when filing bankruptcy. What stops immediately, what does not, stay violations, and Iowa-specific.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Accounts and Bankruptcy in Iowa</title>
+    <link href="https://iowabankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://iowabankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How bankruptcy affects your bank account in Iowa. Levies, setoff rights, protecting deposits, and what to do before filing in N.D. Iowa and S.D. Iowa.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13 in Iowa?</title>
+    <link href="https://iowabankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://iowabankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How to buy a car during Chapter 13 bankruptcy in Iowa. Court motions, trustee approval, interest rates, and budget requirements.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in Iowa</title>
+    <link href="https://iowabankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://iowabankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>When and how you can buy a home after filing bankruptcy in Iowa. Waiting periods for FHA, VA, and conventional loans, credit rebuilding, and Iowa programs.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy in Iowa</title>
+    <link href="https://iowabankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://iowabankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What happens to your car lease in Iowa bankruptcy. Assume or reject, 60-day deadline, early termination fees, and practical options.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy Eligibility in Iowa</title>
+    <link href="https://iowabankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://iowabankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Chapter 13 eligibility requirements in Iowa. Debt limits, regular income, plan length, and requirements for filing in N.D. Iowa and S.D. Iowa.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payments in Iowa</title>
+    <link href="https://iowabankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://iowabankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 payment amounts are calculated in Iowa. Disposable income, plan length, missed payments, and modification options in N.D. Iowa and S.D.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy in Iowa -- Payment Plans, Timeline</title>
+    <link href="https://iowabankruptcy.org/chapter-13.html" rel="alternate"/>
+    <id>https://iowabankruptcy.org/chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to Chapter 13 bankruptcy in Iowa. Payment plan basics, timeline, 3-5 year commitment, and what to expect during the repayment process.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
