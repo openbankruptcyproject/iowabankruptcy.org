@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://iowabankruptcy.org/sitemap.xml
 
-Sitemap: https://iowabankruptcy.org/feed.xml
+
+Sitemap: https://iowabankruptcy.org/sitemapindex.xml
