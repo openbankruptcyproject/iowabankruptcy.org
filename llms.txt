@@ -1,5 +1,5 @@
-# Iowa Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Iowa Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Iowa bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Iowa exemptions, filing costs, means test, and what to expect in your case.
 
@@ -13,8 +13,8 @@ iowabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject
 - Can I Buy a Car While in Chapter 13 in Iowa?: https://iowabankruptcy.org/buy-car-chapter-13.html
 - Buying a House After Bankruptcy in Iowa: https://iowabankruptcy.org/buying-a-house.html
 - Car Leases and Bankruptcy in Iowa: https://iowabankruptcy.org/car-lease.html
-- Chapter 13 Bankruptcy in Cedar Rapids, Iowa - Repayment Plans & Eligibility: https://iowabankruptcy.org/cedar-rapids/chapter-13.html
-- Chapter 7 Bankruptcy in Cedar Rapids, Iowa - Eligibility, Process & Cost: https://iowabankruptcy.org/cedar-rapids/chapter-7.html
+- Chapter 13 Bankruptcy in Cedar Rapids, Iowa - Repayment Plans &amp; Eligibility: https://iowabankruptcy.org/cedar-rapids/chapter-13.html
+- Chapter 7 Bankruptcy in Cedar Rapids, Iowa - Eligibility, Process &amp; Cost: https://iowabankruptcy.org/cedar-rapids/chapter-7.html
 - Iowa Bankruptcy Exemptions for Cedar Rapids Residents (Unlimited Homestead): https://iowabankruptcy.org/cedar-rapids/exemptions.html
 - Bankruptcy FAQ for Cedar Rapids, Iowa - Common Questions Answered: https://iowabankruptcy.org/cedar-rapids/faq.html
 - Filing Bankruptcy in Cedar Rapids, Iowa - Complete Guide | Cedar Rapids Bankruptcy: https://iowabankruptcy.org/cedar-rapids/
@@ -31,8 +31,8 @@ iowabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject
 - Using Credit Cards Before Bankruptcy in Iowa: https://iowabankruptcy.org/credit-cards-before-filing.html
 - Types of Debt in Iowa Bankruptcy: https://iowabankruptcy.org/debt-types.html
 - 341 Meeting of Creditors in Des Moines, Iowa - What to Expect: https://iowabankruptcy.org/des-moines/341-meeting.html
-- Chapter 13 Bankruptcy in Des Moines, Iowa - Repayment Plans & Eligibility: https://iowabankruptcy.org/des-moines/chapter-13.html
-- Chapter 7 Bankruptcy in Des Moines, Iowa - Eligibility, Process & Cost: https://iowabankruptcy.org/des-moines/chapter-7.html
+- Chapter 13 Bankruptcy in Des Moines, Iowa - Repayment Plans &amp; Eligibility: https://iowabankruptcy.org/des-moines/chapter-13.html
+- Chapter 7 Bankruptcy in Des Moines, Iowa - Eligibility, Process &amp; Cost: https://iowabankruptcy.org/des-moines/chapter-7.html
 - How Much Does Bankruptcy Cost in Des Moines, Iowa? (2026 Guide): https://iowabankruptcy.org/des-moines/cost.html
 - Iowa Bankruptcy Exemptions for Des Moines Residents (Unlimited Homestead): https://iowabankruptcy.org/des-moines/exemptions.html
 - Bankruptcy FAQ for Des Moines, Iowa - Common Questions Answered: https://iowabankruptcy.org/des-moines/faq.html
@@ -53,12 +53,12 @@ iowabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject
 - Can I Keep My Jewelry in Iowa Bankruptcy?: https://iowabankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction in Iowa?: https://iowabankruptcy.org/eviction.html
 - Iowa Bankruptcy Exemptions - What You Can Keep: https://iowabankruptcy.org/exemptions.html
-- Iowa Bankruptcy FAQ - 15 Common Questions Answered: https://iowabankruptcy.org/faq.html
+- Iowa Bankruptcy FAQ [2026]: Filing Fees, Exemptions, and Northern and Southern Districts of Iowa: https://iowabankruptcy.org/faq.html
 - How to Find Bankruptcy Filings in Iowa: https://iowabankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Iowa: https://iowabankruptcy.org/foreclosure.html
 - Iowa Bankruptcy Glossary: https://iowabankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Iowa: https://iowabankruptcy.org/income-limits.html
-- Iowa Bankruptcy - Chapter 7 & 13 Filing Guide: https://iowabankruptcy.org/
+- Iowa Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://iowabankruptcy.org/
 - Judgments and Bankruptcy in Iowa: https://iowabankruptcy.org/judgments.html
 - Keep Your Car in Iowa Bankruptcy: https://iowabankruptcy.org/keep-your-car.html
 - Keep Your House in Iowa Bankruptcy: https://iowabankruptcy.org/keep-your-house.html
@@ -74,7 +74,7 @@ iowabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject
 - Second Mortgages and Bankruptcy in Iowa: https://iowabankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Iowa - Will I Lose My Clearance?: https://iowabankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Iowa: https://iowabankruptcy.org/small-business.html
-- Iowa Bankruptcy Statistics - Filing Data and Trends: https://iowabankruptcy.org/statistics.html
+- Iowa Bankruptcy Statistics [2026]: Northern and Southern Districts of Iowa Filing Trends: https://iowabankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Iowa: https://iowabankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Iowa: https://iowabankruptcy.org/student-loans.html
 - Surrendering Your Car in Iowa Bankruptcy - Process, Deficiency, Options: https://iowabankruptcy.org/surrender-car.html
@@ -85,6 +85,7 @@ iowabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject
 - Can I Travel During Chapter 13 in Iowa?: https://iowabankruptcy.org/travel-chapter-13.html
 - Wage Garnishment and Bankruptcy in Iowa: https://iowabankruptcy.org/wage-garnishment.html
 - Privacy Policy: https://iowabankruptcy.org/privacy.html
+- About iowabankruptcy.org: https://iowabankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
